@@ -1,7 +1,7 @@
 # Hugo 属性设置
 
 # 网站地址
-baseurl = "https://localhost:1313/" 
+baseurl = "https://BUAA-Cooper.github.io/myblog" 
 
 # 网站语言
 languageCode = "en-us"              
